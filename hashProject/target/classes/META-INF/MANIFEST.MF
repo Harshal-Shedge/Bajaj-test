@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 16
+Class-Path: lib/json-20231013.jar
+Main-Class: hashProject.DestinationHashGenerator
+Created-By: Maven Integration for Eclipse
+
